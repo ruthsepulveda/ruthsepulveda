@@ -1,12 +1,12 @@
 # Ruth Sepúlveda Márquez
 
-**Data Scientist · PhD Urban Systems (UCL) · Forestry Engineer**
+**Data Scientist · PhD Planning Studies (UCL) · Forestry Engineer**
 
 *I find the pattern that changes the decision.*
 
 \---
 
-A Data Scientist working at the intersection of complex systems and actionable insight. I take messy, real-world data from urban, environmental, and social domains and find the pattern that explains what's actually happening. PhD in Urban Planning from UCL London, BSc in Forestry Engineering from Universidad de Concepción, and 3+ years inside Checkr working with regulated, high-stakes data under FCRA.
+A Data Scientist working at the intersection of complex systems and actionable insight. I take messy, real-world data from urban, environmental, and social domains and find the pattern that explains what's actually happening. PhD in Planning Studies from UCL London (2021), MSc Urban Environmental Management from Wageningen University and Research, Netherlands (2015), BSc in Forestry Engineering from Universidad de Concepción, and 3+ years inside Checkr working with regulated, high-stakes data under FCRA.
 
 What sets my profile apart: I don't just model data, I understand the systems that generated it. After a decade of research and fieldwork across Chile, the United Kingdom, and the Netherlands, I know how to ask the right question before touching a dataset, and when the answer is clear enough to act on.
 
@@ -16,7 +16,7 @@ What sets my profile apart: I don't just model data, I understand the systems th
 
 ### [Verde Desigual](https://github.com/ruthsepulveda/portfolio-eda-santiago)
 
-Spatial analysis of green-space inequity across Santiago's 52 comunas. Combines OpenStreetMap, INE Censo, and CASEN data to test the relationship between municipal poverty rates and per-capita green space, with statistical hypothesis testing controlled for population density.
+Spatial analysis of green-space inequity across Santiago's 51 comunas. Combines OpenStreetMap, INE Censo, and CASEN data to test the relationship between municipal poverty rates and per-capita green space, with statistical hypothesis testing controlled for population density.
 
 `Python · pandas · geopandas · osmnx · scipy · statsmodels · Plotly · Folium`
 
