@@ -24,7 +24,7 @@ Spatial analysis of green-space inequity across Santiago's 51 comunas. Combines 
 
 Interactive Streamlit dashboard exploring Santiago's PM2.5 air quality across SINCA monitoring stations: seasonal patterns, station-by-station comparison, and density-pollution analysis. *In development.*
 
-`Python · Streamlit · time series · SINCA API · Plotly`
+`Python · Streamlit · time series · Plotly`
 
 Two additional projects in active development: a machine-learning classification of urban-agriculture adoption across Chilean comunas (extending my PhD research into quantitative methods), and a Retrieval-Augmented Generation application over Chilean fintech documentation.
 
