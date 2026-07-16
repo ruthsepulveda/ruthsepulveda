@@ -15,18 +15,22 @@ What sets my profile apart: I don't just model data, I understand the systems th
 
 **[Verde Desigual](https://github.com/ruthsepulveda/portfolio-eda-santiago)**
 Spatial analysis of green-space inequity across Santiago's 51 comunas. Combines OpenStreetMap, INE Censo, and CASEN data to test the relationship between municipal poverty rates and per-capita green space, with statistical hypothesis testing controlled for population density.
+
 `Python · pandas · geopandas · osmnx · scipy · statsmodels · Plotly · Folium`
 
 **[Aire Santiago](https://github.com/ruthsepulveda/portfolio-airquality-santiago)**
 Interactive Streamlit dashboard exploring Santiago's PM2.5 air quality across SINCA monitoring stations: seasonal patterns, station-by-station comparison, and density-pollution analysis.
+
 `Python · Streamlit · time series · Plotly`
 
 **[RMS Titanic — Survival Predictor](https://github.com/ruthsepulveda/titanic-survival-predictor)** · [Live app](https://huggingface.co/spaces/ruthsepulveda/titanic-survival-predictor)
 MLP neural network trained with Keras on real Titanic passenger data. The app generates a personalised boarding pass and historical narrative based on the user's passenger profile. Deployed with Docker on Hugging Face Spaces.
+
 `Python · Keras · TensorFlow · Streamlit · Docker · scikit-learn`
 
 **[MNIST Digit Recogniser](https://github.com/ruthsepulveda/mnist-digital-recogniser)** · [Live app](https://mnist-digital-recogniser.onrender.com)
 CNN trained on MNIST to recognise handwritten digits in real time. Features a drawable canvas, activation map visualisation showing what each convolutional layer detects, and a challenge mode with streak tracking. Deployed with Docker on Render.
+
 `Python · Keras · TensorFlow · Streamlit · OpenCV · Docker`
 
 Two additional projects in active development: a machine-learning classification of urban-agriculture adoption across Chilean comunas (extending my PhD research into quantitative methods), and a Retrieval-Augmented Generation application over Chilean fintech documentation.
