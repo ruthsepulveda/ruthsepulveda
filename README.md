@@ -17,7 +17,7 @@ What sets my profile apart: I don't just model data, I understand the systems th
 Spatial analysis of green-space inequity across Santiago's 51 comunas. Combines OpenStreetMap, INE Censo, and CASEN data to test the relationship between municipal poverty rates and per-capita green space, with statistical hypothesis testing controlled for population density.
 `Python · pandas · geopandas · osmnx · scipy · statsmodels · Plotly · Folium`
 
-**[Aire Santiago](https://github.com/ruthsepulveda/portfolio-airquality-santiago)**
+**[Aire Santiago](https://github.com/ruthsepulveda/portfolio-airquality-santiago)** · [Live app](https://aire-santiago.streamlit.app/)
 Interactive Streamlit dashboard exploring Santiago's PM2.5 air quality across SINCA monitoring stations: seasonal patterns, station-by-station comparison, and density-pollution analysis.
 `Python · Streamlit · time series · Plotly`
 
